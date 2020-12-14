@@ -1,7 +1,7 @@
 from MainWindow import MainWindow
 from PyQt5 import QtCore, QtWidgets, QtGui
 
-import sys
+# import sys
 
 appInstance = QtWidgets.QApplication([])
 
